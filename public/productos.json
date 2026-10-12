@@ -1,0 +1,546 @@
+[
+ {
+  "id": "img001",
+  "nombre": "Parlante Bluetooth T&G TG-486 Mini",
+  "precio": 80000,
+  "cat": "tecnologia",
+  "img": "img/img001.webp",
+  "disponible": true
+ },
+ {
+  "id": "img002",
+  "nombre": "Carro Dinosaurio a Control Remoto",
+  "precio": 280000,
+  "cat": "juguetes",
+  "img": "img/img002.webp",
+  "disponible": true
+ },
+ {
+  "id": "img003",
+  "nombre": "Aspiradora Vertical Sokany SK-13013",
+  "precio": 145000,
+  "cat": "hogar",
+  "img": "img/img003.webp",
+  "disponible": true
+ },
+ {
+  "id": "img004",
+  "nombre": "Tren Eléctrico Clásico 15 Piezas",
+  "precio": 95000,
+  "cat": "juguetes",
+  "img": "img/img004.webp",
+  "disponible": true
+ },
+ {
+  "id": "img005",
+  "nombre": "Wafflera Eléctrica para Desayunos",
+  "precio": 140000,
+  "cat": "hogar",
+  "img": "img/img005.webp",
+  "disponible": true
+ },
+ {
+  "id": "img006",
+  "nombre": "Plancha a Vapor Portátil Sokany",
+  "precio": 110000,
+  "cat": "cuidado",
+  "img": "img/img006.webp",
+  "disponible": true
+ },
+ {
+  "id": "img007",
+  "nombre": "Carro Tanque RC con Líquidos",
+  "precio": 180000,
+  "cat": "juguetes",
+  "img": "img/img007.webp",
+  "disponible": true
+ },
+ {
+  "id": "img008",
+  "nombre": "Plancha de Vapor Compacta",
+  "precio": 80000,
+  "cat": "hogar",
+  "img": "img/img008.webp",
+  "disponible": true
+ },
+ {
+  "id": "img009",
+  "nombre": "Licuadora Mixer Sokany 2 en 1",
+  "precio": 140000,
+  "cat": "hogar",
+  "img": "img/img009.webp",
+  "disponible": true
+ },
+ {
+  "id": "img010",
+  "nombre": "Batidora de Mano Sokany 500W",
+  "precio": 85000,
+  "cat": "hogar",
+  "img": "img/img010.webp",
+  "disponible": true
+ },
+ {
+  "id": "img011",
+  "nombre": "Proyector de Luz Nocturna Astronauta",
+  "precio": 85000,
+  "cat": "tecnologia",
+  "img": "img/img011.webp",
+  "disponible": true
+ },
+ {
+  "id": "img012",
+  "nombre": "Robot Space 2 en 1 con Carro Stunt",
+  "precio": 230000,
+  "cat": "juguetes",
+  "img": "img/img012.webp",
+  "disponible": true
+ },
+ {
+  "id": "img013",
+  "nombre": "Batidora de Pedestal con Tazón de Acero",
+  "precio": 185000,
+  "cat": "hogar",
+  "img": "img/img013.webp",
+  "disponible": true
+ },
+ {
+  "id": "img014",
+  "nombre": "Picadora de Alimentos Sokany 0.7L",
+  "precio": 65000,
+  "cat": "hogar",
+  "img": "img/img014.webp",
+  "disponible": true
+ },
+ {
+  "id": "img015",
+  "nombre": "Picadora de Alimentos Sokany 2.0L",
+  "precio": 78000,
+  "cat": "hogar",
+  "img": "img/img015.webp",
+  "disponible": true
+ },
+ {
+  "id": "img016",
+  "nombre": "Picadora de Alimentos Sokany 3.0L",
+  "precio": 130000,
+  "cat": "hogar",
+  "img": "img/img016.webp",
+  "disponible": true
+ },
+ {
+  "id": "img017",
+  "nombre": "Procesador de Alimentos 5 en 1",
+  "precio": 270000,
+  "cat": "hogar",
+  "img": "img/img017.webp",
+  "disponible": true
+ },
+ {
+  "id": "img018",
+  "nombre": "Extractor de Jugo Sokany",
+  "precio": 185000,
+  "cat": "hogar",
+  "img": "img/img018.webp",
+  "disponible": true
+ },
+ {
+  "id": "img019",
+  "nombre": "Batidora de Mano Compacta",
+  "precio": 85000,
+  "cat": "hogar",
+  "img": "img/img019.webp",
+  "disponible": true
+ },
+ {
+  "id": "img020",
+  "nombre": "Olla a Presión Eléctrica",
+  "precio": 270000,
+  "cat": "hogar",
+  "img": "img/img020.webp",
+  "disponible": true
+ },
+ {
+  "id": "img021",
+  "nombre": "Hervidor y Pocero de Huevos Eléctrico",
+  "precio": 68000,
+  "cat": "hogar",
+  "img": "img/img021.webp",
+  "disponible": true
+ },
+ {
+  "id": "img022",
+  "nombre": "Wafflera Eléctrica Doble",
+  "precio": 120000,
+  "cat": "hogar",
+  "img": "img/img022.webp",
+  "disponible": true
+ },
+ {
+  "id": "img023",
+  "nombre": "Máquina de Donas Eléctrica",
+  "precio": 130000,
+  "cat": "hogar",
+  "img": "img/img023.webp",
+  "disponible": true
+ },
+ {
+  "id": "img024",
+  "nombre": "Secador de Cabello Azul iónico",
+  "precio": 85000,
+  "cat": "cuidado",
+  "img": "img/img024.webp",
+  "disponible": true
+ },
+ {
+  "id": "img025",
+  "nombre": "Secador de Cabello Plegable",
+  "precio": 45000,
+  "cat": "cuidado",
+  "img": "img/img025.webp",
+  "disponible": true
+ },
+ {
+  "id": "img026",
+  "nombre": "Molino de Carne Sokany",
+  "precio": 195000,
+  "cat": "hogar",
+  "img": "img/img026.webp",
+  "disponible": true
+ },
+ {
+  "id": "img027",
+  "nombre": "Plancha a Vapor Eléctrica 2400W",
+  "precio": 95000,
+  "cat": "hogar",
+  "img": "img/img027.webp",
+  "disponible": true
+ },
+ {
+  "id": "img028",
+  "nombre": "Set Secador + Plancha 2 en 1",
+  "precio": 95000,
+  "cat": "cuidado",
+  "img": "img/img028.webp",
+  "disponible": true
+ },
+ {
+  "id": "img029",
+  "nombre": "Carro Tanque R/C Militar",
+  "precio": 95000,
+  "cat": "juguetes",
+  "img": "img/img029.webp",
+  "disponible": true
+ },
+ {
+  "id": "img030",
+  "nombre": "Set Muñeca para Peinados Sweet Salon",
+  "precio": 90000,
+  "cat": "juguetes",
+  "img": "img/img030.webp",
+  "disponible": true
+ },
+ {
+  "id": "img031",
+  "nombre": "Aspiradora Vertical 3 en 1",
+  "precio": 195000,
+  "cat": "hogar",
+  "img": "img/img031.webp",
+  "disponible": true
+ },
+ {
+  "id": "img032",
+  "nombre": "Ventilador de Pedestal Ajustable",
+  "precio": 125000,
+  "cat": "hogar",
+  "img": "img/img032.webp",
+  "disponible": true
+ },
+ {
+  "id": "img033",
+  "nombre": "Gafas de Realidad Virtual VR",
+  "precio": 55000,
+  "cat": "tecnologia",
+  "img": "img/img033.webp",
+  "disponible": true
+ },
+ {
+  "id": "img034",
+  "nombre": "Audífonos Gaming RGB con Micrófono",
+  "precio": 85000,
+  "cat": "tecnologia",
+  "img": "img/img034.webp",
+  "disponible": true
+ },
+ {
+  "id": "img035",
+  "nombre": "Audífonos Gaming Onyuma X13 RGB",
+  "precio": 120000,
+  "cat": "tecnologia",
+  "img": "img/img035.webp",
+  "disponible": true
+ },
+ {
+  "id": "img036",
+  "nombre": "Audífonos Gaming Onikuma X92 RGB",
+  "precio": 90000,
+  "cat": "tecnologia",
+  "img": "img/img036.webp",
+  "disponible": true
+ },
+ {
+  "id": "img037",
+  "nombre": "Guitarra Musical Infantil con Micrófono",
+  "precio": 135000,
+  "cat": "juguetes",
+  "img": "img/img037.webp",
+  "disponible": true
+ },
+ {
+  "id": "img038",
+  "nombre": "Guitarra Rock Talent con Micrófono",
+  "precio": 65000,
+  "cat": "juguetes",
+  "img": "img/img038.webp",
+  "disponible": true
+ },
+ {
+  "id": "img039",
+  "nombre": "Buggy R/C Todoterreno 4x4",
+  "precio": 120000,
+  "cat": "juguetes",
+  "img": "img/img039.webp",
+  "disponible": true
+ },
+ {
+  "id": "img040",
+  "nombre": "Set de Plastilinas 8 Colores",
+  "precio": 30000,
+  "cat": "juguetes",
+  "img": "img/img040.webp",
+  "disponible": false
+ },
+ {
+  "id": "img041",
+  "nombre": "Wafflera de Placas Cuadradas",
+  "precio": 75000,
+  "cat": "hogar",
+  "img": "img/img041.webp",
+  "disponible": true
+ },
+ {
+  "id": "img042",
+  "nombre": "Camión de Bomberos a Radio Control",
+  "precio": 75000,
+  "cat": "juguetes",
+  "img": "img/img042.webp",
+  "disponible": true
+ },
+ {
+  "id": "img043",
+  "nombre": "Muñeca Sirena Articulada",
+  "precio": 38000,
+  "cat": "juguetes",
+  "img": "img/img043.webp",
+  "disponible": true
+ },
+ {
+  "id": "img044",
+  "nombre": "Wafflera de Figuras Divertidas",
+  "precio": 90000,
+  "cat": "hogar",
+  "img": "img/img044.webp",
+  "disponible": true
+ },
+ {
+  "id": "img045",
+  "nombre": "Picadora de Alimentos Roja 2L",
+  "precio": 58000,
+  "cat": "hogar",
+  "img": "img/img045.webp",
+  "disponible": true
+ },
+ {
+  "id": "img046",
+  "nombre": "Secador de Cabello 2600W Rojo",
+  "precio": 85000,
+  "cat": "cuidado",
+  "img": "img/img046.webp",
+  "disponible": true
+ },
+ {
+  "id": "img047",
+  "nombre": "Secador de Cabello Profesional Verde",
+  "precio": 85000,
+  "cat": "cuidado",
+  "img": "img/img047.webp",
+  "disponible": true
+ },
+ {
+  "id": "img048",
+  "nombre": "Cepillo Secador Rotativo 1260W",
+  "precio": 95000,
+  "cat": "cuidado",
+  "img": "img/img048.webp",
+  "disponible": true
+ },
+ {
+  "id": "img049",
+  "nombre": "Cepillo Alisador Secador 4 en 1",
+  "precio": 145000,
+  "cat": "cuidado",
+  "img": "img/img049.webp",
+  "disponible": true
+ },
+ {
+  "id": "img050",
+  "nombre": "Lámpara Secadora de Uñas LED UV",
+  "precio": 55000,
+  "cat": "cuidado",
+  "img": "img/img050.webp",
+  "disponible": false
+ },
+ {
+  "id": "img051",
+  "nombre": "Kit de Maquillaje Infantil 3 Niveles",
+  "precio": 75000,
+  "cat": "juguetes",
+  "img": "img/img051.webp",
+  "disponible": true
+ },
+ {
+  "id": "img052",
+  "nombre": "Kit de Maquillaje Infantil con Accesorios",
+  "precio": 65000,
+  "cat": "juguetes",
+  "img": "img/img052.webp",
+  "disponible": true
+ },
+ {
+  "id": "img053",
+  "nombre": "Maletín de Maquillaje Infantil",
+  "precio": 48000,
+  "cat": "juguetes",
+  "img": "img/img053.webp",
+  "disponible": true
+ },
+ {
+  "id": "img054",
+  "nombre": "Kit de Maquillaje Infantil Completo",
+  "precio": 85000,
+  "cat": "juguetes",
+  "img": "img/img054.webp",
+  "disponible": true
+ },
+ {
+  "id": "img055",
+  "nombre": "Construction Magnética Set Dinosaurios",
+  "precio": 95000,
+  "cat": "juguetes",
+  "img": "img/img055.webp",
+  "disponible": true
+ },
+ {
+  "id": "img056",
+  "nombre": "Mini Proyector Ultra HD con Juegos",
+  "precio": 250000,
+  "cat": "tecnologia",
+  "img": "img/img056.webp",
+  "disponible": true
+ },
+ {
+  "id": "img057",
+  "nombre": "Set de Aventura Radiocontrol",
+  "precio": 140000,
+  "cat": "juguetes",
+  "img": "img/img057.webp",
+  "disponible": true
+ },
+ {
+  "id": "img058",
+  "nombre": "Patineta Infantil con Luces y Timbre",
+  "precio": 180000,
+  "cat": "juguetes",
+  "img": "img/img058.webp",
+  "disponible": true
+ },
+ {
+  "id": "img059",
+  "nombre": "Camión Volqueta a Control Remoto",
+  "precio": 110000,
+  "cat": "juguetes",
+  "img": "img/img059.webp",
+  "disponible": true
+ },
+ {
+  "id": "img060",
+  "nombre": "Parlante Bluetooth T&G TG-445 Mini",
+  "precio": 80000,
+  "cat": "tecnologia",
+  "img": "img/img060.webp",
+  "disponible": true
+ },
+ {
+  "id": "img061",
+  "nombre": "Set de Maquillaje para Niñas",
+  "precio": 85000,
+  "cat": "juguetes",
+  "img": "img/img061.webp",
+  "disponible": true
+ },
+ {
+  "id": "img062",
+  "nombre": "Plancha Seca Eléctrica Sokany",
+  "precio": 55000,
+  "cat": "hogar",
+  "img": "img/img062.webp",
+  "disponible": true
+ },
+ {
+  "id": "img063",
+  "nombre": "Rizador de Cabello Cerámico Sokany",
+  "precio": 80000,
+  "cat": "cuidado",
+  "img": "img/img063.webp",
+  "disponible": true
+ },
+ {
+  "id": "img064",
+  "nombre": "Pizza Maker Eléctrica Redonda",
+  "precio": 130000,
+  "cat": "hogar",
+  "img": "img/img064.webp",
+  "disponible": true
+ },
+ {
+  "id": "img065",
+  "nombre": "Trituradora de Hielo Eléctrica Sokany",
+  "precio": 225000,
+  "cat": "hogar",
+  "img": "img/img065.webp",
+  "disponible": true
+ },
+ {
+  "id": "img066",
+  "nombre": "Licuadora Multifuncional 8 en 1",
+  "precio": 270000,
+  "cat": "hogar",
+  "img": "img/img066.webp",
+  "disponible": true
+ },
+ {
+  "id": "img067",
+  "nombre": "Plancha a Vapor Rose Gold Sokany",
+  "precio": 95000,
+  "cat": "hogar",
+  "img": "img/img067.webp",
+  "disponible": true
+ },
+ {
+  "id": "img068",
+  "nombre": "Batidora de Mano Sokany 800W",
+  "precio": 85000,
+  "cat": "hogar",
+  "img": "img/img068.webp",
+  "disponible": true
+ }
+]
